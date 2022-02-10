@@ -20,6 +20,7 @@ public class InstanceofEx1 {
 		
 		System.out.println(son instanceof Family);// true
 		System.out.println(family instanceof Father);// false 
+		System.out.println(son instanceof Son);// true
 		
 //		System.out.println(mother instanceof Son); //error
 		
