@@ -12,6 +12,6 @@ public class Family {
 	}
 	
 	public String toString() {
-		return "이름 : "+name;
+		return "이름 : "+name+"\n";
 	}
 }
