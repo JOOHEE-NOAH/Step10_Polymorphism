@@ -12,6 +12,6 @@ public class Family {
 	}
 	
 	public String toString() {
-		return "이름 : 홍길동";
+		return "이름 : "+name;
 	}
 }
